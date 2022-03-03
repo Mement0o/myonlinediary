@@ -2,10 +2,33 @@
 
 an online diary and PDA CMS
 
-# Functions
+# Ideas
+
+## Communication cards
+
+to create and view cards based on emotions and ideas that can help me communicate with myself or others
+
+## Relationships cards
+
+to store infos about my relationships with people
+
+## Interactive fiction journal
+
+a game I could play that would write my story as I play
+
+## Stories reviews
+
+to help me write about movies books / narrations
+
+## Drawings
+
+to doodle
+
+# Tools 
 
 ## Icon editor
 
+A tool to create your own icons for the shortcuts you can create
 
 # Handwriting
 
