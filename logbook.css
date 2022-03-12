@@ -1,0 +1,59 @@
+.date {
+    /* opacity: 0.5; */
+    font-size: 16px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+input#entry {
+    font-size: 17px;
+    width: 100%;
+    padding: 12px;
+    background: black;
+    color: white;
+    border: 1px white solid;
+    font-family: monospace;
+}
+
+input[type="submit"] {
+    display: none;
+}
+
+span.text {
+}
+
+form {
+    position: fixed;
+    bottom: 10px;
+    margin: 0;
+    width: 100%;
+}
+
+div#entries {
+    padding-bottom: 120px;
+    font-family: monospace;
+    background: black;
+    color: white;
+    padding: 17px;
+    overflow: auto;
+    padding-bottom: 67px;
+    /* width: 100%; */
+    /* height: -webkit-fill-available; */
+}
+
+.text {
+    margin-bottom: 9px;
+    word-break: break-word;
+    font-size: 16px;
+    letter-spacing: 1px;
+    opacity: 0.6;
+}
+
+input#entry:focus {
+    outline: none;
+}
+
+main {
+    background: black;
+}

@@ -1,0 +1,23 @@
+
+.card {
+    width: 218px;
+    height: 347px;
+    margin: 17px;
+    border: 1px solid grey;
+}
+
+div#view {
+    display: flex;
+    /* position: absolute; */
+    height: 400px;
+    width: fit-content;
+    flex-wrap: nowrap;
+    overflow: visible;
+}
+
+
+form#newCard {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
